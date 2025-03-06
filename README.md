@@ -26,7 +26,7 @@ Para realizar a indexação e consulta de dados, é necessário seguir o seguint
 #### Por fim, utilize o Search Explorer para escrever e testar suas consultas. 
 - Exemplo: search=locations:'chicago' - retornará todas as reviews associadas a localização Chicago.
 
-#### Com essas ferramentas é possível realizar automações e consultas de forma mais prática e rápida, além da possibilidade de realizar as buscas direto pelo Search Explorer, é possível desenvolver essas ferramentas para utilização em aplicações. A aplicabilidades dessas ferramentas são infinitas e podem auxiliar em diversas áreas, como no exemplo, na gestão de reviews de produtos e serviços, onde com essas buscas precisas e rápidas, é possivel verificar constantemente e de forma atualiazada a opinião do público e desenvolver ações com base nessa informações. 
+#### Com essas ferramentas é possível realizar automações e consultas de forma mais prática e rápida, além da possibilidade de realizar as buscas direto pelo Search Explorer, é possível desenvolver essas ferramentas para utilização em aplicações. A aplicabilidades dessas ferramentas são infinitas e podem auxiliar em diversas áreas, como no exemplo, na gestão de reviews de produtos e serviços, onde com essas buscas precisas e rápidas, é possivel verificar constantemente e de forma atualizada a opinião do público e desenvolver ações com base nessa informações. 
 
 
 
